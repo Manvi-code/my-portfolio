@@ -1,0 +1,36 @@
+h1{
+    color: rgba(255, 60, 0, 0.705);    
+   margin-left:270px;
+   
+
+  }   
+
+ .grid{
+     display:flex ;
+   background-color:rgb(37, 191, 211);
+    align-content: center;
+    
+    justify-content: space-between;
+ 
+
+  
+ }
+ .manvi{
+   display: flex;  
+   justify-content: space-evenly;
+   flex-direction: row;
+ 
+ }
+ a:link{
+  color: deeppink; 
+ }
+a:visited{
+  color: darkorchid;
+} 
+.item:hover img{
+ opacity:0.5 
+}
+ 
+
+
+ 
